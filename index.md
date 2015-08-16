@@ -1,5 +1,6 @@
 ---
 title: Yury Krivopalov
+layout: default
 ---
 ## Contacts
 
