@@ -1,23 +1,29 @@
 ## Contacts
 
 **Name**: Yury Krivopalov  
-**Location**: Moscow, Russia  
+**Location**: Russia  
 **Email**: [ykrivopalov@yandex.ru](mailto:ykrivopalov@yandex.ru)  
 **Skype**: [yury.krivopalov](skype:yury.krivopalov)  
 **Phone**: [+7 (926) 860-93-45](tel:+7-926-860-93-45)
 
 
+## Education
+
+### [Samara State Aerospace University (SSAU)](http://www.ssau.ru/english/) (September 2005 - February 2011)
+
+Automation engineer
+
+
 ## Technical summary
 
-**Programming languages**: C++ (03, 11, Boost), C, Python, Haskell  
-**Paradigms**: OOP, Structured programming, Functional programming  
+**Programming languages**: C++ (03, 11, ...), Python (asyncio), Rust, Haskell, Go  
+**Paradigms**: OOP, Structured programming, Functional programming, Event-driven programming  
 **Software design**: UML, patterns (GRASP, GoF)  
-**Development environment**: POSIX shell and utilities (GNU, Cygwin), VisualStudio (debugging), Sysinternals tools, gdb (basic)  
-**Version Control**: Subversion, Darcs, Git (basic)  
-**Databases**: SQLite, MS SQL Server (basic)  
-**Build systems**: Make, CMake  
+**Development environment**: POSIX shell and utilities (GNU, Cygwin), VisualStudio (debugging), Sysinternals tools, gdb, Wireshark, nmap  
+**Version Control**: Git, Subversion  
+**Databases**: SQLite  
 **Languages**: Russian (native), English (technical reading, intermediate conversational level)  
-**Additional**: multithreading, IPC, REST (HTTP), cross-platform development, C/C++ bindings  
+**Additional**: multithreading, coroutines, IPC, TCP/IP, network sockets, REST (HTTP), cross-platform development  
 
 
 ## Work experience
@@ -29,11 +35,12 @@ Development within a large team Acronis Backup starting version 11 and until now
 * Software infrastructure development and support. Maintained modules for reporting and alerting. Investigation and improvements for asynchronous evaluations library.
 * Participation in porting of storage server to linux. Work on platform related bugs, support PAM authentication
 * Full responsibility (development, maintenance, new features planning, reviewing) for backup content indexation module.
-* Development Backup&Recovery related business logic. Performance fixes, implementation of REST for new UI.
-* Participation in REST interface planning and implementation using Python.
+* Development Backup&Recovery related business logic.
+* Participation in REST interface planning and implementation using Python, Go.
+* Bussiness logic performance problems investigation and handling. Implementation of the metadata caching subsystem.
 * Communications with support department. Assistance on the customer side: investigation and fixes for complicated issues. Crash dumps, logs analysis.
 
-Technologies: C++03 (tr1), Python, SQLite, PAM, Subversion, JIRA, Code Collaborator (review), big number of internal technologies.
+Technologies: C++03/11, Python, Go, SQLite, PAM, Subversion, Git, JIRA, big number of internal technologies.
 
 
 ### Software developer at [Webzavod](http://www.webzavod.com) (April 2011 - October 2011)
@@ -63,10 +70,3 @@ Working as a single developer.
 ### QA tester at [Mercury Development](http://www.mercdev.com) (October 2007 - May 2008)
 
 Testing software for SAN (iSCSI, FibreChannel) under Windows/MacOS X. Writing test cases, articles for KB. Bugtracking with Bugzilla.
-
-
-## Education
-
-### [Samara State Aerospace University (SSAU)](http://www.ssau.ru/english/) (September 2005 - February 2011)
-
-Automation engineer
