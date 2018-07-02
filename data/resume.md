@@ -1,4 +1,4 @@
-## Contacts
+# Contacts
 
 **Name**: Yury Krivopalov  
 **Location**: Russia  
@@ -7,14 +7,14 @@
 **Phone**: [+7 (926) 860-93-45](tel:+7-926-860-93-45)
 
 
-## Education
+# Education
 
-### [Samara State Aerospace University (SSAU)](http://www.ssau.ru/english/) (September 2005 - February 2011)
+## [Samara State Aerospace University (SSAU)](http://www.ssau.ru/english/) (Sep 2005 - Feb 2011)
 
-Automation engineer
+**Automation engineer**
 
 
-## Technical summary
+# Technical summary
 
 **Programming languages**: C++ (03, 11, ...), Python (asyncio), Go, Rust, Haskell  
 **Paradigms**: OOP, Structured programming, Functional programming, Event-driven programming  
@@ -26,11 +26,13 @@ Automation engineer
 **Additional**: multithreading, coroutines, IPC, TCP/IP, network sockets, REST (HTTP), cross-platform development  
 
 
-## Work experience
+# Work experience
 
-### Software developer, Senior Software Developer at [Acronis](http://www.acronis.com) (October 2011 - Now)
+## [Acronis](http://www.acronis.com), Moscow, RU (Oct 2011 - now)
 
-Development within a large team Acronis Backup starting version 11 and until now.
+**Software developer**, **Senior Software Developer**
+
+Development within a large distributed team Acronis Backup starting version 11 and until now.
 
 * Software infrastructure development and support. Maintained modules for reporting and alerting. Investigation and improvements for asynchronous evaluations library.
 * Participation in porting of storage server to linux. Work on platform related bugs, support PAM authentication
@@ -43,7 +45,9 @@ Development within a large team Acronis Backup starting version 11 and until now
 Technologies: C++03/11, Python, Go, SQLite, PostgreSQL, MySQL, PAM, Subversion, Git, JIRA, big number of internal technologies.
 
 
-### Software developer at [Webzavod](http://www.webzavod.com) (April 2011 - October 2011)
+## [Webzavod](http://www.webzavod.com), Samara, RU (Apr 2011 - Oct 2011)
+
+**Software developer**
 
 Development in a small team, project for SIP-telephony.
 
@@ -52,7 +56,9 @@ Implementation of addressbook module based on SQLite, template library for JavaS
 Technologies: C++, JavaScript(JQuery), Webkit/JavaSriptCore, SIP, Darcs, Redmine
 
 
-### Techician/Engineer at [SMS-Automation](http://www.sms-automation.com) (October 2009 - May 2011)
+## [SMS-Automation](http://www.sms-automation.com), Samara, RU (Oct 2009 - May 2011)
+
+**Technician**, **Engineer**
 
 Working as a single developer.
 
@@ -67,6 +73,8 @@ Working as a single developer.
 * Adjusting and testing configurations for telemetric devices, sensors.
 
 
-### QA tester at [Mercury Development](http://www.mercdev.com) (October 2007 - May 2008)
+## [Mercury Development](http://www.mercdev.com), Samara, RU (Oct 2007 - May 2008)
+
+**QA tester**
 
 Testing software for SAN (iSCSI, FibreChannel) under Windows/MacOS X. Writing test cases, articles for KB. Bugtracking with Bugzilla.
