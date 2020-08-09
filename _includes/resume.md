@@ -1,10 +1,8 @@
 # Contacts
 
-**Name**: Yury Krivopalov  
-**Location**: Russia  
+**Name**: Yury Krivopalov (Юрий Кривопалов)  
+**Location**: Switzerland  
 **Email**: [ykrivopalov@yandex.ru](mailto:ykrivopalov@yandex.ru)  
-**Skype**: [yury.krivopalov](skype:yury.krivopalov)  
-**Phone**: [+7 (926) 860-93-45](tel:+7-926-860-93-45)
 
 
 # Education
@@ -28,7 +26,9 @@
 
 # Work experience
 
-## [Acronis](http://www.acronis.com), Moscow, RU (Oct 2011 - now)
+## [Google](http://www.acronis.com), Zürich, CH (Feb 2019 - now)
+
+## [Acronis](http://www.acronis.com), Moscow, RU (Oct 2011 - Jan 2019)
 
 **Software developer**, **Senior Software Developer**
 
